@@ -1,5 +1,5 @@
 
-## اسکریپت نصب Xray مبتنی بر Nginx برای ساختار VLESS + XTLS با یک کلیک <img src="https://raw.githubusercontent.com/wulabing/Xray_onekey/main/image/project_xray.jpg" alt="Project_Xray" width="122" height="30" align="bottom" />
+## اسکریپت نصب Xray مبتنی بر Nginx برای ساختار VLESS + XTLS با یک کلیک <img src="https://raw.githubusercontent.com/Ccheers/Xray_onekey/main/image/project_xray.jpg" alt="Project_Xray" width="122" height="30" align="bottom" />
 
 
 > با تشکر از JetBrains برای مجوز توسعه نرم افزار منبع باز غیر تجاری!
@@ -32,7 +32,7 @@ https://github.com/XTLS/Xray-core/issues/91
 - VLESS + TCP + TLS + Nginx + WebSocket
 
 ```
-wget -N --no-check-certificate -q -O install.sh "https://raw.githubusercontent.com/wulabing/Xray_onekey/nginx_forward/install.sh" && chmod +x install.sh && bash install.sh
+wget -N --no-check-certificate -q -O install.sh "https://raw.githubusercontent.com/Ccheers/Xray_onekey/nginx_forward/install.sh" && chmod +x install.sh && bash install.sh
 ```
 
 ### روش نصب و بروزرسانی (Xray front)
@@ -43,7 +43,7 @@ wget -N --no-check-certificate -q -O install.sh "https://raw.githubusercontent.c
 - VLESS + TCP + XTLS / TLS  + Nginx 及 VLESS + TCP + TLS + Nginx + WebSocket 回落并存模式
 
 ```
-wget -N --no-check-certificate -q -O install.sh "https://raw.githubusercontent.com/wulabing/Xray_onekey/main/install.sh" && chmod +x install.sh && bash install.sh
+wget -N --no-check-certificate -q -O install.sh "https://raw.githubusercontent.com/Ccheers/Xray_onekey/main/install.sh" && chmod +x install.sh && bash install.sh
 ```
 
 
